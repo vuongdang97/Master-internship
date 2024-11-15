@@ -1,0 +1,2 @@
+﻿  Wave_boundary.cpp
+C:\Users\dangt\Desktop\Wave_boundary_control_OOP\Wave_boundary_control_OOP\Wave_boundary.cpp(6,10): error C1083: Impossible d'ouvrir le fichier include : 'Eigen/Dense' : No such file or directory

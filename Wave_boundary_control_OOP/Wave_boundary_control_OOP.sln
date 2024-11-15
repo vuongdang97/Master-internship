@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wave_boundary_control_OOP", "Wave_boundary_control_OOP\Wave_boundary_control_OOP.vcxproj", "{99354603-AAC0-408B-B1F2-9189E5A5895A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Debug|x64.ActiveCfg = Debug|x64
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Debug|x64.Build.0 = Debug|x64
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Debug|x86.ActiveCfg = Debug|Win32
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Debug|x86.Build.0 = Debug|Win32
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Release|x64.ActiveCfg = Release|x64
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Release|x64.Build.0 = Release|x64
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Release|x86.ActiveCfg = Release|Win32
+		{99354603-AAC0-408B-B1F2-9189E5A5895A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E47EA08-3F95-4572-8F34-923DF5F47126}
+	EndGlobalSection
+EndGlobal
